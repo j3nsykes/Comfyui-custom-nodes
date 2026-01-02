@@ -1,0 +1,14 @@
+[project]
+name = "ComfyUI-Align"
+description = "A powerful node alignment and color management plugin for ComfyUI, designed to enhance your workflow efficiency"
+version = "2.2.2"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/Moooonet/ComfyUI-Align"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "moon"
+DisplayName = "ComfyUI-Align"
+Icon = ""

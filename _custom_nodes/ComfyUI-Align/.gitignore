@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+images/
+.vscode/
+.editorconfig
+.pre-commit-config.yaml
+MANIFEST.in
+config/default-color-preset.json
